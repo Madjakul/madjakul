@@ -37,7 +37,11 @@
 
 ---
 
-<img align="left" alt="Madjakul's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Madjakul&show_icons=true&hide_border=true" />
+<img align="left" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Madjakul&show_icons=true&hide_border=true" />
+
+---
+
+<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madjakul&layout=compact) />
 
 [website]: https://madjakul.github.io/FrancisRepository/
 [twitter]: https://twitter.com/madjakul

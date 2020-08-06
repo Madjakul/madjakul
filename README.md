@@ -1,6 +1,6 @@
-### Hello, I am Francis - aka Madjakul👋
+## Hello, I am Francis AKA Madjakul
 
-## I am a student in an Engineering school and a data scientist apprentice.
+### I am a student in an Engineering school and a data scientist apprentice.
 - 🌱 I’m currently learning deep learning, NLP and computer vision.
 
 ### Connect with me:

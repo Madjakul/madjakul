@@ -32,7 +32,6 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Minimax connect 4](https://madjakul.github.io/FrancisRepository/posts/minimax-connect4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -40,5 +39,5 @@
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 [website]: https://madjakul.github.io/FrancisRepository/
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/madjakul
 [twitch]: https://www.twitch.tv/madjakul

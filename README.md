@@ -9,7 +9,7 @@
 
 ---
 
-<img align="right" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madjakul&layout=default&theme=radical&count_private=true&show_icons=true)" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madjakul&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://madjakul.github.io/FrancisRepository/
 [twitter]: https://twitter.com/madjakul

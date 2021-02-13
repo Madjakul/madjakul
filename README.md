@@ -3,8 +3,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [COVID-19 Data, First Part](https://madjakul.github.io/FrancisRepository/posts/covid19-1/)
-- [Minimax connect 4](https://madjakul.github.io/FrancisRepository/posts/minimax-connect4/)
+- [Connect 4 With Minimax Algorithm](https://www.madjakul.com/en/posts/minimax_connect4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---

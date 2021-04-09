@@ -1,4 +1,4 @@
-## Hello, I am Francis
+## Hello
 ---
 
 ### 📕 Latest Blog Posts

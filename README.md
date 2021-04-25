@@ -3,8 +3,8 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [\[FR\]Champs Aléatoires Conditionnels pour l'Extraction d'Entités Nommées](https://www.madjakul.com/posts/crf/)
-- [\[EN\]Connect 4 With Minimax Algorithm](https://www.madjakul.com/en/posts/minimax_connect4/)
+- [\[FR\] Champs Aléatoires Conditionnels pour l'Extraction d'Entités Nommées](https://www.madjakul.com/posts/crf/)
+- [\[EN\] Connect 4 With Minimax Algorithm](https://www.madjakul.com/en/posts/minimax_connect4/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
